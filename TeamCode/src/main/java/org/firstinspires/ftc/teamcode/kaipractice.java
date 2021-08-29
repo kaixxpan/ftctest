@@ -58,7 +58,7 @@ public class kaipractice extends OpMode
     private ElapsedTime runtime = new ElapsedTime();
     private DcMotor leftDrv = null;
     private DcMotor rightDrive = null;
-    //lol
+    //lol by Kai Pan
     /*
      * Code to run ONCE when the driver hits INIT
      */
